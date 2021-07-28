@@ -1,0 +1,20 @@
+[user]
+    name = Alexey Osipov
+    email = justgamzakov@gmail.com
+    username = justgamzakov
+
+[core]
+    editor = vim
+
+[diff]
+    tool = vimdiff
+
+[difftool]
+    prompt = false
+
+[delta]
+    features = line-numbers decorations
+    line-numbers = true
+
+# [url "git@github.com:"]
+#	insteadOf = https://github.com/

@@ -1,0 +1,40 @@
+window:
+  dynamic_padding: false
+  startup_mode: Maximized
+  padding:
+    x: 0
+    y: 0
+
+font:
+  offset:
+    x: 0
+    y: 0
+  glyph_offset:
+    x: 0
+    y: 0
+  use_thin_strokes: true
+
+colors:
+  primary:
+    background: "#262626"
+    foreground: "#F8F8F2"
+
+  normal:
+    black: "#1B1D1E"
+    blue: "#465457"
+    cyan: "#56C2D6"
+    green: "#82B414"
+    purple: "#8C54FE"
+    red: "#F92672"
+    white: "#CCCCC6"
+    yellow: "#FD971F"
+
+  bright:
+    black: "#505354"
+    blue: "#899CA1"
+    cyan: "#8CEDFF"
+    green: "#B6E354"
+    purple: "#9E6FFE"
+    red: "#FF5995"
+    white: "#F8F8F2"
+    yellow: "#FEED6C"
